@@ -1,0 +1,8 @@
+Número de caracteres: 12381028
+Número de linhas não vazias: 84450
+Número de palavras: 1951290
+Número de palavras únicas: 97640
+Quociente entre palavras diferentes e únicas: .05
+Número de frases: 83895
+Número de frases únicas: 80758
+Quociente entre frases diferentes e únicas: .96
